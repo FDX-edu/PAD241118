@@ -1,4 +1,10 @@
 # 네이버 API 발급 받기
+## 네이버 개발자 센터
+
+```
+https://developers.naver.com/main/
+```
+
 ## 참고 사이트
 
 ```
