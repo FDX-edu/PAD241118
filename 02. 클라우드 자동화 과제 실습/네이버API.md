@@ -16,5 +16,5 @@ curl "https://openapi.naver.com/v1/search/news.json?query=KPOP" -H X-Naver-Clien
 
 ![image](https://github.com/user-attachments/assets/07467bd5-21dd-4e3e-bef1-9a712cffc896)
 
-## DPA를 이용하여 뉴스 크롤링 하기
+
 
