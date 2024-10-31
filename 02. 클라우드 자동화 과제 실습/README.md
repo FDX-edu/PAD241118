@@ -1,1 +1,5 @@
-# 네이버 API를 통한 네이버 뉴스 크롤링 
+# 클라우드 자동화
+Power Automate Cloud flow를 통한 네이버 뉴스 클리핑
+
+
+
