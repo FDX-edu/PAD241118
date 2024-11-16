@@ -18,12 +18,12 @@ Enjoy the Time !!
 |----------------|--------------------------------------------|--------------------------------|
 | 09:00 - 09:30  | Reception - 참석 등록                      | -                              |
 | 09:30 - 10:00  | Microsoft 제품 소개                        | Microsoft Technical Specialist<br>안창주 매니저 |
-| 10:00 - 11:30  | 1. 데스크톱 자동화 과제 실습:<br>Power Automate Desktop flow | FDX Networks                   |
+| 10:00 - 11:30  | 1. 데스크톱 자동화 과제 실습:<br>Power Automate Desktop flow | FDX Networks  <br>조우현 주임                 |
 | 11:30 - 13:00  | Lunch                                      | -                              |
-| 13:00 - 14:00  | 2. 클라우드 자동화 과제 실습:<br>Power Automate Cloud flow | FDX Networks                   |
+| 13:00 - 14:00  | 2. 클라우드 자동화 과제 실습:<br>Power Automate Cloud flow | FDX Networks <br>최가은 주임                  |
 | 14:00 - 14:10  | Break                                      | -                              |
-| 14:10 - 15:40  | 3. 클라우드 + 데스크톱 자동화 연동 과제 실습 | FDX Networks                   |
+| 14:10 - 15:40  | 3. 클라우드 + 데스크톱 자동화 연동 과제 실습 | FDX Networks  <br>홍용기 이사                  |
 | 15:40 - 15:50  | Break                                      | -                              |
-| 15:50 - 16:40  | 4. AI가 결합된 Hyper-Automation:<br>AI Builder | FDX Networks                   |
+| 15:50 - 16:40  | 4. AI가 결합된 Hyper-Automation:<br>AI Builder | FDX Networks   <br>홍용기 이사                |
 | 16:40 - 17:00  | Q & A                                      | 모두                           |
 
